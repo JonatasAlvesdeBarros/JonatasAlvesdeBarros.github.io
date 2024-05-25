@@ -13,7 +13,7 @@ body {
     text-align: center;
     height: 260px;
     background-image: linear-gradient(300deg, cadetblue, #180F4A);
-    background-image: url(/Imagenss/3415222.jpg);
+    background-image: url(Imagenss/3415222.jpg);
 }
 
 .head h1 {
@@ -256,7 +256,7 @@ aside {
     text-align: center;
     margin: 7% 10%;
     margin-bottom: 5%;
-    background-image: url(/Imagenss/grobruntland.png);
+    background-image: url(Imagenss/grobruntland.png);
     width: auto;
     height: 500px;
     background-size: cover;
